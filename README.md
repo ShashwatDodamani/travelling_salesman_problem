@@ -51,3 +51,9 @@ Run the script using python **filename.py**, replacing **filename.py** with the 
     # Print results
     print("Best route:", best_route)
     print("Total distance:", calculate_total_distance(best_route, distance_matrix))
+
+# Acknowledgments
+
+Inspired by the **Genetic Algorithm** and its application to combinatorial optimization problems.
+
+The NumPy and Matplotlib libraries were instrumental in the implementation.
